@@ -9,3 +9,16 @@ Para alimentar modelos de lenguaje que traduciran de Aymara-Español y Español-
 
 Todo quedara documentado en este repositorio.
 
+- - - -
+# Documentación
+- - - -
+# Codigos
+- - - -
+# Entrenamiento
+- - - -
+# Resultados
+## Modelos
+- - - -
+# Implementación
+- - - -
+
